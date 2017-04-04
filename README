@@ -1,0 +1,5 @@
+1. The password for the server side is "server" (without quotes)
+. The password for the client side is "client" (without quotes)
+
+2.to compile the code, use command "make".
+3.the detail of how to run this program is provided in my report.
